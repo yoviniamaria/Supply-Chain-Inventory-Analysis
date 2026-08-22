@@ -1,2 +1,2 @@
-# Supply-Chain-and-Inventory-Analysis
-Inventory Overview, Product Inventoy, and Supply Chain &amp; Replenishment Analytics using SQL and Power BI
+# Supply-Chain-Inventory-Analysis
+End-to-end supply chain and inventory analysis using SQL and Power BI to evaluate inventory performance, product contribution, and supplier replenishment efficiency.
