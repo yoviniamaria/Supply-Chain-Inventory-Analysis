@@ -230,12 +230,12 @@ Supply-Chain-Inventory-Analysis/
 ```
 
 ## Dashboard Preview
-### Inventory Overview
-![Sales Dashboard](images/Inventory_Overview.png)
-### Product Inventory Analysis
-![Sales Dashboard](images/Product_Inventory_Analysis.png)
-### Supply Chain Replenishment
-![Sales Dashboard](images/Supply_Chain_Replenishment.png)
+### Inventory Overview Dashboard
+![Inventory Overview Dashboard](power_bi/images/Inventory_Overview.png)
+### Product Inventory Analysis Dashboard
+![Product Inventory Analysis Dashboard](power_bi/images/Product_Inventory_Analysis.png)
+### Supply Chain Replenishment Dashboard
+![Supply Chain Replenishment Dashboard](power_bi/images/Supply_Chain_Replenishment.png)
 
 ## Key Business Findings
 ### Inventory Health
