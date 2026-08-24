@@ -209,7 +209,7 @@ Supply-Chain-Inventory-Analysis/
 │	       ├── vw_product_inventory.sql
 │	       ├── vw_region_summary.sql
 │	       ├── vw_warehouse_summary.sql
-│     	 └── vw_warehouse_summary.sql
+│          └── vw_warehouse_summary.sql
 │
 ├── documentation/
 │   ├── data_quality_report.md
@@ -218,24 +218,21 @@ Supply-Chain-Inventory-Analysis/
 ├── power_bi/
 │   ├── Supply Chain Inventory.pbix
 │   └── images/
-│   	 ├── Inventory_Overview.png
-│   	 ├── Product_Inventory_Analysis.png
-│  	   ├── Supply_Chain_Replenishment.png
-│  	   └── Executive_Summary.png
-│
-├── images/
-│   └── dashboard_preview.png
+│   	 ├── Inventory_Overview.PNG
+│   	 ├── Product_Inventory_Analysis.PNG
+│  	     ├── Supply_Chain_Replenishment.PNG
+│  	     └── Executive_Summary.PNG
 │
 └── LICENSE
 ```
 
 ## Dashboard Preview
 ### Inventory Overview Dashboard
-![Inventory Overview Dashboard](power_bi/images/Inventory_Overview.png)
+![Inventory Overview Dashboard](power_bi/images/Inventory_Overview.PNG)
 ### Product Inventory Analysis Dashboard
-![Product Inventory Analysis Dashboard](power_bi/images/Product_Inventory_Analysis.png)
+![Product Inventory Analysis Dashboard](power_bi/images/Product_Inventory_Analysis.PNG)
 ### Supply Chain Replenishment Dashboard
-![Supply Chain Replenishment Dashboard](power_bi/images/Supply_Chain_Replenishment.png)
+![Supply Chain Replenishment Dashboard](power_bi/images/Supply_Chain_Replenishment.PNG)
 
 ## Key Business Findings
 ### Inventory Health
