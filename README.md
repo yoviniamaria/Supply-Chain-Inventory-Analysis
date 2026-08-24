@@ -21,7 +21,7 @@ Menganalisis performa inventory dan supply chain melalui analisis pergerakan sto
 
 ## Dataset
 **Source:**  
-[High-Dimensional Supply Chain Inventory Dataset (Kaggle)](https://www.kaggle.com/datasets/ziya07/high-dimensional-supply-chain-inventory-dataset?utm_source=chatgpt.com)
+[High-Dimensional Supply Chain Inventory Dataset (Kaggle)](https://www.kaggle.com/datasets/ziya07/high-dimensional-supply-chain-inventory-dataset/data)
 
 **Period:**  
 January 2024 – December 2024
