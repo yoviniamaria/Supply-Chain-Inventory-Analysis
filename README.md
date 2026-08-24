@@ -274,12 +274,8 @@ Lakukan pemantauan secara rutin terhadap Supplier Lead Time dan aktivitas pemesa
 
 
 ## Author
-Maria Yovinia
-
-Information Systems Graduate
-
-Google Data Analytics Professional Certificate
-
-LinkedIn: Maria Yovinia
-
-GitHub: yoviniamaria
+**Maria Yovinia**  
+Information Systems Graduate  
+[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/X0A778W6LDOY)  
+LinkedIn: [Maria Yovinia](www.linkedin.com/in/mariayovinia)  
+GitHub: [yoviniamaria](https://github.com/yoviniamaria)
