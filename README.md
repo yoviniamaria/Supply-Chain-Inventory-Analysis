@@ -190,14 +190,11 @@ Supply-Chain-Inventory-Analysis/
 │
 ├── README.md
 │
-├── data/
-│   └── README.md
-│
 ├── sql/
 │   ├── 01_Data_Quality_Check.sql
 │   ├── 02_Data_Cleaning.sql
 │   ├── 03_Inventory_Analytics.sql
-│   ├── 04_Product_Inventory_Analytics.sql
+│   ├── 04_Product_Inventory_Analysis.sql
 │   ├── 05_Inventory_Health_Analysis.sql
 │   ├── 06_Product_Analytics.sql
 │   ├── 07_Region_Summary.sql
