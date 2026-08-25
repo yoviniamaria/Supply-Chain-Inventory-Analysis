@@ -206,7 +206,7 @@ Supply-Chain-Inventory-Analysis/
 │	       ├── vw_product_inventory.sql
 │	       ├── vw_region_summary.sql
 │	       ├── vw_warehouse_summary.sql
-│          └── vw_supplier_summary.sql
+│  	   └── vw_supplier_summary.sql
 │
 ├── documentation/
 │   └── data_quality_report.md
@@ -214,8 +214,8 @@ Supply-Chain-Inventory-Analysis/
 ├── power_bi/
 │   ├── Supply Chain Inventory.pbix
 │   └── images/
-│   	 ├── Inventory_Overview.PNG
-│   	 ├── Product_Inventory_Analysis.PNG
+│   	     ├── Inventory_Overview.PNG
+│   	     ├── Product_Inventory_Analysis.PNG
 │  	     ├── Supply_Chain_Replenishment.PNG
 │  	     └── Executive_Summary.PNG
 │
