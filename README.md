@@ -209,11 +209,10 @@ Supply-Chain-Inventory-Analysis/
 │	       ├── vw_product_inventory.sql
 │	       ├── vw_region_summary.sql
 │	       ├── vw_warehouse_summary.sql
-│          └── vw_warehouse_summary.sql
+│          └── vw_supplier_summary.sql
 │
 ├── documentation/
-│   ├── data_quality_report.md
-│   └── analysis_notes.md
+│   └── data_quality_report.md
 │
 ├── power_bi/
 │   ├── Supply Chain Inventory.pbix
