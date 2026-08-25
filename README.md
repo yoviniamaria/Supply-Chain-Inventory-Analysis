@@ -4,12 +4,12 @@ End-to-end supply chain and inventory analysis using SQL and Power BI to evaluat
 ## Project Overview
 Proyek ini bertujuan menganalisis performa inventory dan supply chain menggunakan **High-Dimensional Supply Chain Inventory Dataset (Kaggle)**.
 
-Analisis dilakukan dari tiga prespektif bisnis utama yaitu:
+Analisis dilakukan dari tiga perspektif bisnis utama yaitu:
 -	**Inventory Overview**
 -	**Product Inventory Analysis**
--	**Supply Chain & Replenisment Analysis**
+-	**Supply Chain & Replenishment Analysis**
 
-Proyek ini menggunakan SQL untuk data cleaning dan analisis data, serta PowerBI untuk membangun dashboard interaktif. Analisis dilakukan untuk mengidentifikasi faktor-faktor yang mempengaruhi performa inventory dan supply chain dan menghasikan rekomendasi bisnis berbasis data.
+Proyek ini menggunakan SQL untuk data cleaning dan analisis data, serta PowerBI untuk membangun dashboard interaktif. Analisis dilakukan untuk mengidentifikasi faktor-faktor yang mempengaruhi performa inventory dan supply chain dan menghasilkan rekomendasi bisnis berbasis data.
 
 ## Business Problem
 Perusahaan perlu menjaga keseimbangan antara ketersediaan stok dan biaya inventory agar dapat mengambil keputusan bisnis yang lebih efektif. 
@@ -39,11 +39,11 @@ Dataset ini memiliki 15 kolom utama, yaitu
 | Supplier_ID	| Kode unik yang diberikan untuk membedakan setiap supplier |
 | Region | Wilayah operasional tempat warehouse atau aktivitas supply chain berlangsung |
 | Units_Sold | Jumlah unit yang terjual pada saat pencatatan |
-| Inventory_Level |	Jumlah stok yang tersedia pada saat pencataan |
+| Inventory_Level |	Jumlah stok yang tersedia pada saat pencatatan |
 | Supplier_Lead_Time_Days |	Estimasi jumlah hari yang dibutuhkan supplier untuk memenuhi pesanan sejak dilakukan pemesanan hingga barang diterima. |
 | Reorder_Point	| Batas minimum stock yang harus tersedia sebelum dilakukan pemesanan ulang. |
 | Order_Quantity | Jumlah unit yang dipesan ke supplier |
-| Unit_Cost	Harga | beli per unit saat di beli ke supplier |
+| Unit_Cost	| Harga beli per unit saat di beli ke supplier |
 | Unit_Price | Harga yang dijual per unit |
 | Promotion_Flag | Indikator yang menunjukkan apakah produk sedang mengikuti program promosi pada periode tersebut. |
 | Stockout_Flag | Indikator apakah produk mengalami kehabisan stok pada periode tersebut |
@@ -55,7 +55,7 @@ Silakan mengunduh dataset melalui tautan resmi High-Dimensional Supply Chain Inv
 ## Tools Used
 -	SQL (MySQL) digunakan untuk data cleaning, data validation, dan exploratory analysis,
 -	Power BI digunakan untuk membangun dashboard interaktif.
--	GitHub digunakan untuk memaparkan seluruh proses analisis sampai dengan recommendation
+-	GitHub digunakan untuk mendokumentasikan seluruh proses analisis sampai dengan recommendations.
 
 ## Data Quality and Cleaning
 Sebelum melakukan analisis, dilakukan proses **Data Quality Check** dan **Data Cleaning** untuk memastikan konsistensi dan keandalan data.
@@ -88,7 +88,7 @@ Analisis inventory dilakukan untuk memahami pola persediaan dan aktivitas penjua
 ***Key Insights***
 - **Average Inventory secara konsisten berada di atas Average Reorder Point**. Average Inventory berada pada kisaran **454–527 unit**, sedangkan Average Reorder Point relatif stabil di sekitar **300 unit**. Hal ini menunjukkan bahwa secara agregat, inventory masih berada di atas batas Reorder Point. 
 - **Total Units Sold tertinggi terjadi pada Maret 2024**, yaitu sebesar **231,596 unit**, kemudian menurun hingga mencapai titik terendah pada **September 2024** sebesar **76,304 unit**. 
-- Meskipun terjadi penurunan aktivitas penjualan setelah Maret, **Average Inventory tidak menunjukkan pola penurunan yang serupa** dan tetap berada pada kisaran sekitar **454–477 unit** selama sebagian besar periode setelah Maret. 
+- Average Inventory berada pada kisaran **454-527 unit** sepanjang periode observasi. Setelah Maret, Average Inventory tetap relatif stabil pada kisaran sekitar **454–477 unit**, meskipun Total Units Sold mengalami penurunan.
 
 Secara keseluruhan, **inventory cenderung tetap dipertahankan meskipun aktivitas penjualan mengalami penurunan**. Kondisi ini dapat menjadi area untuk mengevaluasi keseimbangan antara ketersediaan stok dan potensi kelebihan inventory.
 
