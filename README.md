@@ -186,6 +186,7 @@ Selain itu, rata-rata Inventory Level yang terkait dengan setiap supplier berada
 
 ## Project Structure
 ```
+
 Supply-Chain-Inventory-Analysis/
 │
 ├── README.md
@@ -201,12 +202,12 @@ Supply-Chain-Inventory-Analysis/
 │   ├── 08_Warehouse_Summary.sql
 │   ├── 09_Supplier_Summary.sql
 │   └── views/
-│	       ├── vw_inventory_summary.sql
-│	       ├── vw_inventory_status.sql
-│	       ├── vw_product_inventory.sql
-│	       ├── vw_region_summary.sql
-│	       ├── vw_warehouse_summary.sql
-│  	   └── vw_supplier_summary.sql
+│	      ├── vw_inventory_summary.sql
+│	      ├── vw_inventory_status.sql
+│	      ├── vw_product_inventory.sql
+│	      ├── vw_region_summary.sql
+│	      ├── vw_warehouse_summary.sql
+│  	      └── vw_supplier_summary.sql
 │
 ├── documentation/
 │   └── data_quality_report.md
@@ -214,12 +215,13 @@ Supply-Chain-Inventory-Analysis/
 ├── power_bi/
 │   ├── Supply Chain Inventory.pbix
 │   └── images/
-│   	     ├── Inventory_Overview.PNG
-│   	     ├── Product_Inventory_Analysis.PNG
+│        ├── Inventory_Overview.PNG
+│        ├── Product_Inventory_Analysis.PNG
 │  	     ├── Supply_Chain_Replenishment.PNG
 │  	     └── Executive_Summary.PNG
 │
 └── LICENSE
+
 ```
 
 ## Dashboard Preview
