@@ -10,6 +10,7 @@ Analisis dilakukan dari tiga perspektif bisnis utama yaitu:
 -	**Supply Chain & Replenishment Analysis**
 
 Proyek ini menggunakan SQL untuk data cleaning dan analisis data, serta PowerBI untuk membangun dashboard interaktif. Analisis dilakukan untuk mengidentifikasi faktor-faktor yang mempengaruhi performa inventory dan supply chain dan menghasilkan rekomendasi bisnis berbasis data.
+Sebagai langkah pengembangan, analisis utama juga direplikasi di Looker Studio untuk memperluas aksesibilitas data.
 
 ## Business Problem
 Perusahaan perlu menjaga keseimbangan antara ketersediaan stok dan biaya inventory agar dapat mengambil keputusan bisnis yang lebih efektif. 
