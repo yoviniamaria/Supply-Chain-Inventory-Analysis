@@ -1,5 +1,5 @@
 # Supply-Chain-Inventory-Analysis
-End-to-end supply chain and inventory analysis using SQL and Power BI to evaluate inventory performance, product contribution, and supplier replenishment efficiency.
+End-to-end supply chain and inventory analysis using SQL for data analysis and data validation, and Power BI and Looker Studio for dashboard development and visualization, to evaluate inventory performance, product contribution, and supplier replenishment efficiency.
 
 ## Project Overview
 Proyek ini bertujuan menganalisis performa inventory dan supply chain menggunakan **High-Dimensional Supply Chain Inventory Dataset (Kaggle)**.
