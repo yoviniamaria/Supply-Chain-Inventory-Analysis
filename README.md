@@ -53,8 +53,9 @@ Dataset asli tidak disertakan dalam repository ini karena batasan ukuran file.
 Silakan mengunduh dataset melalui tautan resmi High-Dimensional Supply Chain Inventory Dataset (Kaggle) di atas.
 
 ## Tools Used
--	SQL (MySQL) digunakan untuk data cleaning, data validation, dan exploratory analysis,
+-	SQL (MySQL) digunakan untuk data cleaning, data validation, dan exploratory analysis.
 -	Power BI digunakan untuk membangun dashboard interaktif.
+-	Looker Studio sebagai implementasi dan visualisasi dasbor pendukung.
 -	GitHub digunakan untuk mendokumentasikan seluruh proses analisis sampai dengan recommendations.
 
 ## Data Quality and Cleaning
@@ -220,17 +221,32 @@ Supply-Chain-Inventory-Analysis/
 │  	     ├── Supply_Chain_Replenishment.PNG
 │  	     └── Executive_Summary.PNG
 │
+├── looker_studio/
+│   └── images/
+│        ├── Inventory_Overview.PNG
+│        ├── Product_Inventory_Analysis.PNG
+│  	     └── Supply_Chain_Replenishment.PNG
+│
 └── LICENSE
 
 ```
 
 ## Dashboard Preview
-### Inventory Overview Dashboard
+### Power BI Dashboard
+#### Inventory Overview Dashboard
 ![Inventory Overview Dashboard](power_bi/images/Inventory_Overview.PNG)
-### Product Inventory Analysis Dashboard
+#### Product Inventory Analysis Dashboard
 ![Product Inventory Analysis Dashboard](power_bi/images/Product_Inventory_Analysis.PNG)
-### Supply Chain Replenishment Dashboard
+#### Supply Chain Replenishment Dashboard
 ![Supply Chain Replenishment Dashboard](power_bi/images/Supply_Chain_Replenishment.PNG)
+
+### Looker Studio Dashboard
+#### Inventory Overview Dashboard
+![Inventory Overview Dashboard](looker_studio/images/Inventory_Overview.PNG)
+#### Product Inventory Analysis Dashboard
+![Product Inventory Analysis Dashboard](looker_studio/images/Product_Inventory_Analysis.PNG)
+#### Supply Chain Replenishment Dashboard
+![Supply Chain Replenishment Dashboard](looker_studio/images/Supply_Chain_Replenishment.PNG)
 
 ## Key Business Findings
 ### Inventory Health
